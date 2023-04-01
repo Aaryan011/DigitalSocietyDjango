@@ -25,3 +25,9 @@ Pass --- 0123
 
 Note :- If you add the soc member/watchman through the chairman dashboard you'll receive the login password on the mail that you have entered.
         Check Spam folder otherwise.
+
+For Adding the Society Member-----
+
+--->> Login through Chairman Login Credentials
+--->> Open the Add Society Member Option on the Left Sidebar
+--->> Fill the required details then hit the sybmit button
